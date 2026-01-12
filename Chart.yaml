@@ -1,0 +1,12 @@
+apiVersion: v2
+name: gitlab
+description: Umbrella for gitlab
+
+type: application
+
+version: 0.1.0
+
+dependencies:
+  - name: gitlab
+    version: 9.7.0
+    repository: https://charts.gitlab.io

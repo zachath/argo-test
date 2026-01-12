@@ -1,0 +1,4 @@
+global:
+  upgradeCheck:
+    enabled: false
+  edition: ce
