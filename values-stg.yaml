@@ -1,8 +1,1 @@
-upgradeCheck:
-  enabled: false
-global:
-  edition: ce
-  certmanager:
-    install: false
-  ingress:
-    configureCertmanager: false
+replicaCount: 2
