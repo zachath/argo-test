@@ -1,4 +1,8 @@
+upgradeCheck:
+  enabled: false
 global:
-  upgradeCheck:
-    enabled: false
   edition: ce
+  certmanager:
+    install: false
+  ingress:
+    configureCertmanager: false
